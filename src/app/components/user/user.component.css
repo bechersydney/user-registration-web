@@ -1,0 +1,11 @@
+.submitregister{
+   float: right;
+   padding: 6px 20px;
+}
+input[type=number]:focus, 
+[type=text].form-control:focus, 
+[type=password].form-control:focus, 
+[type=email].form-control:focus, 
+[type=tel].form-control:focus {
+  box-shadow: none;
+}
