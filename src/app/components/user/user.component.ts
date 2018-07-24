@@ -6,7 +6,7 @@ import * as _ from 'google-libphonenumber';
 @Component({
   selector: 'app-user',
   templateUrl: './user.component.html',
-  styleUrls: ['./user.component.css'],
+  styleUrls: ['./user.component.scss'],
   providers: []
 })
 export class UserComponent implements OnInit {
